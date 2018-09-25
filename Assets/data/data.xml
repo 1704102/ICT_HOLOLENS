@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <conNXT>
+        <data1> url </data1>
+        <data2> username </data2>
+        <data3> password</data3>
+    </conNXT>
+    <interface rows="2" column="2">
+        <composites>
+            <frame rows="2" column="2" rownum="1" colnum="1">
+                <composites>
+                    <panel rownum="1" colnum="1,2" width="200" height="100">
+                        <components>
+                            <text value="dit is text"/>
+                        </components>
+                    </panel>
+                    <panel rownum="2" colnum="1" width="100" height="100">
+                        <components>
+                            <text value="dit is text"/>
+                        </components>
+                    </panel>
+                    <panel rownum="2" colnum="2" width="100" height="100">
+                        <components>
+                            <text value="dit is text"/>
+                        </components>
+                    </panel>
+                </composites>
+            </frame>
+            <panel rownum="1" colnum="2" width="200" height="200">
+                <components>
+                    <text value="dit is text"/>
+                </components>
+            </panel>
+            <panel rownum="2" colnum="1" width="200" height="200">
+                <components>
+                    <text value="dit is text"/>
+                </components>
+            </panel>
+            <panel rownum="2" colnum="2" width="200" height="100">
+                <components>
+                    <text value="dit is text"/>
+                </components>
+            </panel>
+        </composites>
+    </interface>
+</data>
+
